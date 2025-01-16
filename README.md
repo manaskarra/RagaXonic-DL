@@ -1,6 +1,6 @@
 # RagaXonic: AI-Powered Music Generation  
 
-RagaXonic is a custom AI-based music generator that fuses Hindustani and Western musical traditions to produce unique polyphonic MIDI compositions. It leverages a 3-layered LSTM neural network to analyze, learn, and create music based on input MIDI datasets.  
+RagaXonic is a custom AI-based music generator that fuses Hindustani and Western musical traditions to produce unique polyphonic MIDI compositions. It uses a 3-layered LSTM neural network to analyze, learn, and create music based on input MIDI datasets.  
 
 ## Key Features  
 - **Fusion of Hindustani and Western Music**: A unique approach to blending two musical traditions.  
@@ -106,5 +106,3 @@ Here’s a preview of the generated music:
 Enjoy generating music with **RagaXonic**! 🎶  
 
 ---  
-
-Let me know if you'd like to add anything specific!
