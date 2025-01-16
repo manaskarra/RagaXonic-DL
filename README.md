@@ -77,7 +77,7 @@ python app.py
 ```  
 
 ### Output  
-- Specify the number of notes and temperature (creativity) for generation.  
+- Specify the number of notes and temperature (randomness/creativity) for generation.  
 - Download the generated MIDI file for playback.  
 
 ---
@@ -90,10 +90,8 @@ Here’s a preview of the generated music:
 ---
 
 ## Future Work  
-- Integration with additional musical styles and datasets.  
-- Real-time music playback within the web UI.  
-- Exporting to audio formats (e.g., WAV, MP3).  
-
+- Integration with additional musical styles and datasets.
+  
 ---
 
 ## Acknowledgments  
