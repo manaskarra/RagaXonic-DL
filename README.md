@@ -15,7 +15,6 @@ RagaXonic is a custom AI-based music generator that fuses Hindustani and Western
 - [Setup and Installation](#setup-and-installation)  
 - [How It Works](#how-it-works)  
 - [Usage](#usage)  
-- [Sample Output](#sample-output)  
 - [Future Work](#future-work)  
 - [Acknowledgments](#acknowledgments)  
 
