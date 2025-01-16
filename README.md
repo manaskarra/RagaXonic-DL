@@ -71,21 +71,11 @@ python train_network.py
 ```  
 
 ### Generating Music  
-Run the interactive UI using Gradio:  
-```bash  
-python app.py  
-```  
+Run the interactive UI using Gradio
 
 ### Output  
 - Specify the number of notes and temperature (randomness/creativity) for generation.  
 - Download the generated MIDI file for playback.  
-
----
-
-## Sample Output  
-Here’s a preview of the generated music:  
-- **[Output MIDI File 1](./samples/output1.mid)**  
-- **[Output MIDI File 2](./samples/output2.mid)**  
 
 ---
 
